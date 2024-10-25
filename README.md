@@ -1,7 +1,7 @@
 Next.jsを用いたCDN 経由でobnizを開発するためのコードです。
 LEDはアノードをobnizのio0に、カソードをio1に指しています。
 
-<img src="https://gyazo.com/eb68a0cc0b7e81867729e0adb4703434" alt="LEDのONOFFをnext.jsで制御" >
+<img src="https://i.gyazo.com/eb68a0cc0b7e81867729e0adb4703434.jpg" alt="LEDのONOFFをnext.jsで制御" >
 ---------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
