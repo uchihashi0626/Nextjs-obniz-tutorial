@@ -1,3 +1,7 @@
+Next.jsを用いたCDN 経由でobnizを開発するためのコードです。
+
+![エビフライトライアングル](http://i.imgur.com/Jjwsc.jpg "サンプル")
+---------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
